@@ -6,6 +6,7 @@
 ![Logo](./images/Cloud-Practitioner.png)
 
 ## Table of contents
+# By Mudassir Alam
 
 - [Mind Map for outlining essential topics](https://kananinirav.com/mind-map-aws-ccp.html)
 - [Study Guide](./study-guide.md)
